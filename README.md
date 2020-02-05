@@ -1,6 +1,6 @@
 Welcome to the AWS CodeStar sample static HTML website
 ==================================================
-
+![Jekyll site CI](https://github.com/hiren1994/Web-Project/workflows/Jekyll%20site%20CI/badge.svg)
 This sample code helps get you started with a simple static HTML website
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 instance.
 
